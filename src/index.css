@@ -5,7 +5,7 @@ html, body, #root {
     text-align: center;
     font-style: italic;
     color: rgb(39, 29, 20);
-    background-image: linear-gradient(37deg, violet, rgb(5, 167, 145),rgb(203, 229, 203));
+    background-image: linear-gradient(37deg, #094b79,#00d4ff,#020024);
     font-size: 40px;
 }
 
